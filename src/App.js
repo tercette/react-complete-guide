@@ -32,6 +32,7 @@ const DUMMY_ESPENSES = [
   },
 ];
 
+
 const App = () => {
   const [expenses, setExpenses] = useState(DUMMY_ESPENSES);
 
